@@ -17,7 +17,7 @@ const Featured = () => {
     return (
         <div className='w-full py-10 bg-zinc-100'>
             <div className='w-full px-10 border-b-[1px] border-zinc-500 pb-14'>
-                <h1 className='text-[5.2vw] font-["Neue Montreal"] tracking-tight font-thin'>Featured projects</h1>
+                <h1 className='text-[5.2vw] font-["Neue Montreal"] tracking-tight font-thin'>Featured projectss</h1>
             </div>
             <div className='px-20'>
                 <div className='cards flex gap-10 mt-14'>
